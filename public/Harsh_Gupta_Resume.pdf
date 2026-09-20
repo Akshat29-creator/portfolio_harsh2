@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2437 >>
+stream
+BT /F2 26 Tf 50 780 Td (Harsh Gupta) Tj ET
+BT /F1 12 Tf 50 760 Td (Full-Stack Developer) Tj ET
+BT /F1 9 Tf 50 742 Td (Email: harsh370hg@gmail.com   |   GitHub: github.com/harshfiu   |   LinkedIn: linkedin.com/in/harshfiu) Tj ET
+0.8 0.8 0.8 RG 1 w 50 730 m 545 730 l S
+BT /F2 13 Tf 50 705 Td (Professional Summary) Tj ET
+BT /F1 9.5 Tf 50 688 Td (Innovative and detail-oriented Full-Stack Developer with hands-on experience in building modern,) Tj ET
+BT /F1 9.5 Tf 50 674 Td (responsive web applications, interactive user experiences, and scalable backend services.) Tj ET
+BT /F2 13 Tf 50 645 Td (Technical Skills) Tj ET
+BT /F2 9.5 Tf 50 628 Td (Frontend:) Tj /F1 9.5 Tf 55 0 Td (React, Next.js, TypeScript, JavaScript, Tailwind CSS, Framer Motion, GSAP, HTML5/CSS3) Tj ET
+BT /F2 9.5 Tf 50 612 Td (Backend:) Tj /F1 9.5 Tf 55 0 Td (Node.js, Express, REST APIs, PostgreSQL, MongoDB, Prisma) Tj ET
+BT /F2 9.5 Tf 50 596 Td (Tools & DevOps:) Tj /F1 9.5 Tf 75 0 Td (Git, GitHub, Docker, Vercel, Linux, Turbopack) Tj ET
+BT /F2 13 Tf 50 565 Td (Work Experience) Tj ET
+BT /F2 10.5 Tf 50 545 Td (Software Developer Intern) Tj /F1 9.5 Tf 300 0 Td (2023 - Present) Tj ET
+BT /F1 9.5 Tf 50 530 Td (- Designed and engineered dynamic user interfaces using React, Next.js, and TypeScript.) Tj ET
+BT /F1 9.5 Tf 50 516 Td (- Implemented responsive layouts with Tailwind CSS, ensuring cross-browser compatibility.) Tj ET
+BT /F1 9.5 Tf 50 502 Td (- Built scalable API endpoints and integrated backend databases for seamless data flow.) Tj ET
+BT /F2 13 Tf 50 470 Td (Featured Projects) Tj ET
+BT /F2 10.5 Tf 50 450 Td (3D Interactive Developer Portfolio) Tj ET
+BT /F1 9.5 Tf 50 435 Td (- Built a cutting-edge portfolio utilizing Next.js, Spline 3D scenes, GSAP animations, and Tailwind CSS.) Tj ET
+BT /F1 9.5 Tf 50 421 Td (- Implemented theme switching, contact form integrations, and fluid responsive interactions.) Tj ET
+BT /F2 10.5 Tf 50 395 Td (Full-Stack Web Applications) Tj ET
+BT /F1 9.5 Tf 50 380 Td (- Developed full-stack web applications featuring secure authentication and realtime capabilities.) Tj ET
+BT /F1 9.5 Tf 50 366 Td (- Engineered performant RESTful APIs and modern database schemas.) Tj ET
+BT /F2 13 Tf 50 335 Td (Education) Tj ET
+BT /F2 10.5 Tf 50 315 Td (Bachelor of Technology in Computer Science & Engineering) Tj ET
+BT /F1 9.5 Tf 50 300 Td (Core Coursework: Data Structures, Algorithms, Web Development, Database Management, OS) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002740 00000 n 
+0000002810 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2885
+%%EOF
